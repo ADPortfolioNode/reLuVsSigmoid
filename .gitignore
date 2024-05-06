@@ -1,0 +1,24 @@
+# Python
+*.pyc
+__pycache__/
+myenv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Compiled files
+*.exe
+*.dll
+*.so
+*.pyd
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
